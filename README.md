@@ -2,7 +2,7 @@
 
 These are all of the projects that I managed to create while taking part in Colt Steele's 'The Web Developer Bootcamp' course on Udemy.   
 
-Projects Included:
+# Projects Included
 
 Things I Learned- Basic HTML file used to mess around with lists and basic HTML tags like strong and em.
 
