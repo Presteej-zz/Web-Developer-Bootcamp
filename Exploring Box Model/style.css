@@ -1,0 +1,20 @@
+h1 {
+    padding: 5%;
+    margin: 0 auto 0 auto;
+}
+
+p {
+    /* Content- Width and Height */
+    width: 50%;
+    height: 50px;
+
+    /* Border Patrol */
+    border: 2px solid gray;
+
+    /* Padding */
+    padding: 10px;
+
+    /* Margin */
+    margin: 20px 40px 100px 100px;
+
+}
