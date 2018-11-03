@@ -15,3 +15,5 @@ Sample Registration Form - Basic introduction to how inputs work, applied in the
 To Do - Basic To Do List with minor CSS. Moreso for just playing with inputs. 
 
 Exploring Fonts - Playing around with the different syntax around fonts in HTML/CSS, as well as how to incorporate outside fonts into HTML/CSS files. 
+
+Exploring Box Model - Playing around with the different syntax around spacing of elements in CSS. 
