@@ -17,3 +17,5 @@ To Do - Basic To Do List with minor CSS. Moreso for just playing with inputs.
 Exploring Fonts - Playing around with the different syntax around fonts in HTML/CSS, as well as how to incorporate outside fonts into HTML/CSS files. 
 
 Exploring Box Model - Playing around with the different syntax around spacing of elements in CSS. 
+
+Tic Tac Toe Board - I made a non-responsive Tic Tac Toe Board just to mess around with the basic CSS table and spacing properties. 
