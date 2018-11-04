@@ -21,3 +21,5 @@ Exploring Box Model - Playing around with the different syntax around spacing of
 Tic Tac Toe Board - I made a non-responsive Tic Tac Toe Board just to mess around with the basic CSS table and spacing properties.  
 
 Photogrid Project I - I used HTML/CSS and a few black-and-white photos from some outstanding photographers to make a photogrid that resembles Instagram.
+
+Photogrid Project II - Same photogrid style, just tailored around my brother and his sports. He's awesome.  
