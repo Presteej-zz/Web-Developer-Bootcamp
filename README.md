@@ -23,3 +23,5 @@ Tic Tac Toe Board - I made a non-responsive Tic Tac Toe Board just to mess aroun
 Photogrid Project I - I used HTML/CSS and a few black-and-white photos from some outstanding photographers to make a photogrid that resembles Instagram.
 
 Photogrid Project II - Same photogrid style, just tailored around my brother and his sports. He's awesome.  
+
+Static Blog Page - Used HTML/CSS to create a minimalist yet modern-looking blog page. Completely non-interactive, but cool nevertheless. 
