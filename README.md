@@ -25,3 +25,5 @@ Photogrid Project I - I used HTML/CSS and a few black-and-white photos from some
 Photogrid Project II - Same photogrid style, just tailored around my brother and his sports. He's awesome.  
 
 Static Blog Page - Used HTML/CSS to create a minimalist yet modern-looking blog page. Completely non-interactive, but cool nevertheless. 
+
+Strapped Up - My own personal introduction (for myself) into Bootstrap, starting with components like forms and jumbotrons and, in general, getting me used to how to implement and use some of the features of Bootstrap (using version 3.3.7)
