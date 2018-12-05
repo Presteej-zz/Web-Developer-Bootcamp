@@ -29,3 +29,5 @@ Static Blog Page - Used HTML/CSS to create a minimalist yet modern-looking blog 
 Strapped Up - My own personal introduction (for myself) into Bootstrap, starting with components like forms and jumbotrons and, in general, getting me used to how to implement and use some of the features of Bootstrap (using version 3.3.7)
 
 Bootstrap Gridding - Just messing around with the grid system in Bootstrap and using divs and containers. (using version 3.3.7)
+
+Cleveland, The Gallery - Image gallery using the grid system in Bootstrap catered to my hometown, Cleveland, Ohio. (using version 3.3.7)

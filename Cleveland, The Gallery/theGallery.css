@@ -1,0 +1,44 @@
+body {
+    padding-top: 70px;
+    background: #041E42;
+}
+
+.jumbotron {
+    background: #6F263D;
+    color:#FFB81C;
+}
+
+.navbar-inverse {
+    background: #6F263D;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: #FFB81C;
+}
+
+.navbar-inverse .navbar-brand {
+    color: #FFB81C;
+}
+
+img {
+    width: 400px;
+    height: 400px;
+}
+
+.wrapper {
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.wrapper > div.left {
+    background:#6F263D;
+    padding: 50px 80px;
+    color: #FFB81C;
+}
+
+.wrapper > div.right {
+    background:#6F263D;
+    padding: 20% 80px;
+    text-align: center;
+    color: #FFB81C;
+}
