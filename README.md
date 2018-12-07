@@ -31,3 +31,5 @@ Strapped Up - My own personal introduction (for myself) into Bootstrap, starting
 Bootstrap Gridding - Just messing around with the grid system in Bootstrap and using divs and containers. (using version 3.3.7)
 
 Cleveland, The Gallery - Image gallery using the grid system in Bootstrap catered to my hometown, Cleveland, Ohio. (using version 3.3.7)
+
+Sticking the Landing - Attempt at a modern landing page design for a website using my friend Koko as a muse. (using Bootstrap 3.3.7)

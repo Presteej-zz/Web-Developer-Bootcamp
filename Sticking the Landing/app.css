@@ -1,0 +1,36 @@
+body{
+    background: url(img/koko2.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: Lato; 
+    color: white;
+}
+
+html{
+    /* Fixes issues with background image stopping short on the page */
+    height: 100%; 
+}
+#content {
+    text-align: center;
+    padding-top: 25%; 
+
+    /* Multi-layed shadow effect! */
+    text-shadow: 0px 0px 3px rgba(0, 0, 0, 0.4), 
+                 0px 8px 13px rgba(0, 0, 0, 0.1),
+                 0px 18px 23px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 5em;  /* Makes this 5x bigger than the parent element */
+}
+
+hr {
+    width: 400px;
+    border-top: 1px solid #f8f8f8;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2) 
+}
+
+.fa-user, .fa-user-plus {
+    padding-right: 5px;
+}
