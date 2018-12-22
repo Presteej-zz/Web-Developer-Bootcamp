@@ -33,3 +33,5 @@ Bootstrap Gridding - Just messing around with the grid system in Bootstrap and u
 Cleveland, The Gallery - Image gallery using the grid system in Bootstrap catered to my hometown, Cleveland, Ohio. (using version 3.3.7)
 
 Sticking the Landing - Attempt at a modern landing page design for a website using my friend Koko as a muse. (using Bootstrap 3.3.7)
+
+Meet Bootstrap 4 - This is just me doing VSCode as a canvas to mess around with all of the newer features from Bootstrap 4. Nothing special in particular, but I guess it showcases that I know how to use the newer features. 
