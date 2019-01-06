@@ -35,3 +35,5 @@ Cleveland, The Gallery - Image gallery using the grid system in Bootstrap catere
 Sticking the Landing - Attempt at a modern landing page design for a website using my friend Koko as a muse. (using Bootstrap 3.3.7)
 
 Meet Bootstrap 4 - This is just me doing VSCode as a canvas to mess around with all of the newer features from Bootstrap 4. Nothing special in particular, but I guess it showcases that I know how to use the newer features. 
+
+Aurora Project- Bootstrap 4 project that's just a basic website design for a faux website called "Aurora".  
