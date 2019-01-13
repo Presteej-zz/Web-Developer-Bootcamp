@@ -39,3 +39,5 @@ Meet Bootstrap 4 - This is just me doing VSCode as a canvas to mess around with 
 Aurora Project- Bootstrap 4 project that's just a basic website design for a faux website called "Aurora".  
 
 Museum of Candy! - Bootstrap 4 project that's a responsive design for a fictional "Museum of Candy" company. 
+
+First- Just a very minor project in which I integrate a separate JS file into a very basic HTML project. Utilizes "prompt()", "alert()", and "console.log()" that come standard with Javascript. 
