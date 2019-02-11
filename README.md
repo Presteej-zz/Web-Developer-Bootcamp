@@ -41,3 +41,7 @@ Aurora Project- Bootstrap 4 project that's just a basic website design for a fau
 Museum of Candy! - Bootstrap 4 project that's a responsive design for a fictional "Museum of Candy" company. 
 
 First- Just a very minor project in which I integrate a separate JS file into a very basic HTML project. Utilizes "prompt()", "alert()", and "console.log()" that come standard with Javascript. 
+
+Annoy-O-Matic- Really really basic javascript alert project using a while loop. 
+
+Guessing Game - Javascript based guessing game with an established number and prompts to get a user to guess said number. 
