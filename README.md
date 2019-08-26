@@ -47,3 +47,5 @@ Annoy-O-Matic- Really really basic javascript alert project using a while loop.
 Guessing Game - Javascript based guessing game with an established number and prompts to get a user to guess said number. 
 
 Functions Problem Set - A set of three problems that I solved while being introduced to JavaScript functions. 
+
+To Do List II - A second todo list with code primarily centered arond Javascript and arrays. 
