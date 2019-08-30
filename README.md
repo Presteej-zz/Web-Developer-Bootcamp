@@ -48,4 +48,6 @@ Guessing Game - Javascript based guessing game with an established number and pr
 
 Functions Problem Set - A set of three problems that I solved while being introduced to JavaScript functions. 
 
-To Do List II - A second todo list with code primarily centered arond Javascript and arrays. 
+To Do List II - A second todo list with code primarily centered arond Javascript and array-related concepts like: push(), pop(), unshift(), shift(), .forEach, and general array iteration. 
+
+Arrays Problem Set - A set of problems that I solved regarding Javascript arrays, for loops, and forEach loops. 
