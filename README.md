@@ -50,4 +50,6 @@ Functions Problem Set - A set of three problems that I solved while being introd
 
 To Do List II - A second todo list with code primarily centered arond Javascript and array-related concepts like: push(), pop(), unshift(), shift(), .forEach, and general array iteration. 
 
-Arrays Problem Set - A set of problems that I solved regarding Javascript arrays, for loops, and forEach loops. 
+Arrays Problem Set - A set of problems that I solved regarding Javascript arrays, for loops, and forEach loops.
+
+Movie Database Exercise - A Javascript problem that I solved regarding Javascript arrays, nested objects, and for loops. 

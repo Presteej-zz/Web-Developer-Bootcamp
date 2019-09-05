@@ -1,0 +1,12 @@
+html, body {
+    margin: 0;
+    width: 100%;
+}
+
+.first {
+    margin-top: 5%;
+}
+
+hr {
+    width: 75%;
+}
