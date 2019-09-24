@@ -53,3 +53,5 @@ To Do List II - A second todo list with code primarily centered arond Javascript
 Arrays Problem Set - A set of problems that I solved regarding Javascript arrays, for loops, and forEach loops.
 
 Movie Database Exercise - A Javascript problem that I solved regarding Javascript arrays, nested objects, and for loops. 
+
+Color Changer - A HTML/CSS/Javascript creation of mine where I use DOM and event listeners to allow the user to change the background color of the screen when a button is clicked.
