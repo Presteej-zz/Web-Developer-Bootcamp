@@ -55,3 +55,5 @@ Arrays Problem Set - A set of problems that I solved regarding Javascript arrays
 Movie Database Exercise - A Javascript problem that I solved regarding Javascript arrays, nested objects, and for loops. 
 
 Color Changer - A HTML/CSS/Javascript creation of mine where I use DOM and event listeners to allow the user to change the background color of the screen when a button is clicked.
+
+Scorekeeper Exercise - A HTML/CSS/Javascript creation that's basically a scoreboard complete with features such as a reset button and the ability to change the target score. Uses DOM, selectors, advanced Javascript concepts like the keyword "this" and events. 
