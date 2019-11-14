@@ -59,3 +59,5 @@ Color Changer - A HTML/CSS/Javascript creation of mine where I use DOM and event
 Scorekeeper Exercise - A HTML/CSS/Javascript creation that's basically a scoreboard complete with features such as a reset button and the ability to change the target score. Uses DOM, selectors, advanced Javascript concepts like the keyword "this" and events. 
 
 The Color Game - A game that tests how well you know your RGB colors. Complete with an "easy" and "hard" mode, the game features stuff like HTML, CSS, Javascript, ternary operation, and lots of DOM manipulation to bring you something that you can replay over and over again to your heart's content. 
+
+To Do List III - A third todo list, using jQuery, HTML, and CSS. Features and focuses primarily on using jQuery and its inherent effects (creating elements, event delegation) to achieve goals while removing and adding things to a page through the DOM and general CSS things such as margins, padding, fonts, floating, gradients, and transitions.
