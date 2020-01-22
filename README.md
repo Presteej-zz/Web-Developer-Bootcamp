@@ -61,3 +61,5 @@ Scorekeeper Exercise - A HTML/CSS/Javascript creation that's basically a scorebo
 The Color Game - A game that tests how well you know your RGB colors. Complete with an "easy" and "hard" mode, the game features stuff like HTML, CSS, Javascript, ternary operation, and lots of DOM manipulation to bring you something that you can replay over and over again to your heart's content. 
 
 To Do List III - A third todo list, using jQuery, HTML, and CSS. Features and focuses primarily on using jQuery and its inherent effects (creating elements, event delegation) to achieve goals while removing and adding things to a page through the DOM and general CSS things such as margins, padding, fonts, floating, gradients, and transitions.
+
+Patatap Clone - A clone of the Patatap Website (https://www.patatap.com) where you can press random letter keys on a keyboard and have a resulting animation and sound play at a random spot on the screen. Uses Paper.js, Howler.js, Javascript, HTML, and CSS. 
